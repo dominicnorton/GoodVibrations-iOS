@@ -62,7 +62,7 @@ func playHaptic() async {
 ```
 
 ## Creating And Editing `.goodvibes` Files
-To create and edit `.goodvibes` files, the Good Vibrations iOS App is recommended.
+To create and edit `.goodvibes` files, the Good Vibrations [iOS App](https://apps.apple.com/gb/app/good-vibrations/id6753113298) is required.
 
 
 ## License
